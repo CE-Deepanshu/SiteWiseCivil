@@ -1,6 +1,150 @@
 # CEMENT
 A cement is a binder used for construction that sets, hardens, and adheres to other materials to bind them together. Cement is seldom used on its own, but rather to bind sand and gravel (aggregate) together. Cement mixed with fine aggregate produces mortar for masonry, or with sand and gravel, produces concrete.
 
+## Types of Cement
+
+<svg width="1100" height="780" viewBox="0 0 1100 780" xmlns="http://www.w3.org/2000/svg">
+<style>
+svg{max-width:100%;height:auto;background:#f8fafc}
+.title{font:700 34px Arial,sans-serif;fill:#0f172a}
+.subtitle{font:16px Arial,sans-serif;fill:#475569}
+.card{fill:#fff;stroke:#cbd5e1;stroke-width:1.5}
+.head{font:700 15px Arial,sans-serif;fill:#0f172a}
+.txt{font:13px Arial,sans-serif;fill:#334155}
+.badge{fill:#0f766e}
+.num{font:700 13px Arial,sans-serif;fill:#fff}
+</style>
+
+<text x="550" y="50" text-anchor="middle" class="title">
+13 Types of Cement and Their Uses
+</text>
+
+<text x="550" y="80" text-anchor="middle" class="subtitle">
+Quick Site Reference for Civil Engineers
+</text>
+
+<!-- Card Template Example -->
+
+<g transform="translate(40,120)">
+<rect class="card" width="320" height="100" rx="12"/>
+<circle class="badge" cx="30" cy="25" r="15"/>
+<text class="num" x="30" y="30" text-anchor="middle">1</text>
+<text class="head" x="55" y="30">Ordinary Portland Cement (OPC)</text>
+<text class="txt" x="20" y="60">Buildings, RCC, bridges, pavements,</text>
+<text class="txt" x="20" y="80">foundations and general construction.</text>
+</g>
+
+<g transform="translate(390,120)">
+<rect class="card" width="320" height="100" rx="12"/>
+<circle class="badge" cx="30" cy="25" r="15"/>
+<text class="num" x="30" y="30" text-anchor="middle">2</text>
+<text class="head" x="55" y="30">Portland Pozzolana Cement (PPC)</text>
+<text class="txt" x="20" y="60">Mass concrete, hydraulic structures,</text>
+<text class="txt" x="20" y="80">plastering and masonry works.</text>
+</g>
+
+<g transform="translate(740,120)">
+<rect class="card" width="320" height="100" rx="12"/>
+<circle class="badge" cx="30" cy="25" r="15"/>
+<text class="num" x="30" y="30" text-anchor="middle">3</text>
+<text class="head" x="55" y="30">Portland Slag Cement (PSC)</text>
+<text class="txt" x="20" y="60">Marine structures, coastal works,</text>
+<text class="txt" x="20" y="80">sewage and aggressive environments.</text>
+</g>
+
+<g transform="translate(40,250)">
+<rect class="card" width="320" height="100" rx="12"/>
+<circle class="badge" cx="30" cy="25" r="15"/>
+<text class="num" x="30" y="30" text-anchor="middle">4</text>
+<text class="head" x="55" y="30">Rapid Hardening Cement</text>
+<text class="txt" x="20" y="60">Road repairs, precast concrete and</text>
+<text class="txt" x="20" y="80">early strength applications.</text>
+</g>
+
+<g transform="translate(390,250)">
+<rect class="card" width="320" height="100" rx="12"/>
+<circle class="badge" cx="30" cy="25" r="15"/>
+<text class="num" x="30" y="30" text-anchor="middle">5</text>
+<text class="head" x="55" y="30">Quick Setting Cement</text>
+<text class="txt" x="20" y="60">Underwater concreting, grouting</text>
+<text class="txt" x="20" y="80">and emergency repair works.</text>
+</g>
+
+<g transform="translate(740,250)">
+<rect class="card" width="320" height="100" rx="12"/>
+<circle class="badge" cx="30" cy="25" r="15"/>
+<text class="num" x="30" y="30" text-anchor="middle">6</text>
+<text class="head" x="55" y="30">Low Heat Cement</text>
+<text class="txt" x="20" y="60">Dams, raft foundations and</text>
+<text class="txt" x="20" y="80">mass concrete structures.</text>
+</g>
+
+<g transform="translate(40,380)">
+<rect class="card" width="320" height="100" rx="12"/>
+<circle class="badge" cx="30" cy="25" r="15"/>
+<text class="num" x="30" y="30" text-anchor="middle">7</text>
+<text class="head" x="55" y="30">Sulphate Resisting Cement</text>
+<text class="txt" x="20" y="60">Foundations in sulphate soils,</text>
+<text class="txt" x="20" y="80">marine and sewage works.</text>
+</g>
+
+<g transform="translate(390,380)">
+<rect class="card" width="320" height="100" rx="12"/>
+<circle class="badge" cx="30" cy="25" r="15"/>
+<text class="num" x="30" y="30" text-anchor="middle">8</text>
+<text class="head" x="55" y="30">High Alumina Cement</text>
+<text class="txt" x="20" y="60">Refractory concrete, chemical</text>
+<text class="txt" x="20" y="80">plants and high temperatures.</text>
+</g>
+
+<g transform="translate(740,380)">
+<rect class="card" width="320" height="100" rx="12"/>
+<circle class="badge" cx="30" cy="25" r="15"/>
+<text class="num" x="30" y="30" text-anchor="middle">9</text>
+<text class="head" x="55" y="30">White Cement</text>
+<text class="txt" x="20" y="60">Architectural finishes, decorative</text>
+<text class="txt" x="20" y="80">works and terrazzo flooring.</text>
+</g>
+
+<g transform="translate(40,510)">
+<rect class="card" width="320" height="100" rx="12"/>
+<circle class="badge" cx="30" cy="25" r="15"/>
+<text class="num" x="30" y="30" text-anchor="middle">10</text>
+<text class="head" x="55" y="30">Coloured Cement</text>
+<text class="txt" x="20" y="60">Decorative facades, flooring</text>
+<text class="txt" x="20" y="80">and architectural finishes.</text>
+</g>
+
+<g transform="translate(390,510)">
+<rect class="card" width="320" height="100" rx="12"/>
+<circle class="badge" cx="30" cy="25" r="15"/>
+<text class="num" x="30" y="30" text-anchor="middle">11</text>
+<text class="head" x="55" y="30">Hydrophobic Cement</text>
+<text class="txt" x="20" y="60">Humid regions and long-term</text>
+<text class="txt" x="20" y="80">cement storage.</text>
+</g>
+
+<g transform="translate(740,510)">
+<rect class="card" width="320" height="100" rx="12"/>
+<circle class="badge" cx="30" cy="25" r="15"/>
+<text class="num" x="30" y="30" text-anchor="middle">12</text>
+<text class="head" x="55" y="30">Air Entraining Cement</text>
+<text class="txt" x="20" y="60">Roads, pavements, runways</text>
+<text class="txt" x="20" y="80">and freeze-thaw regions.</text>
+</g>
+
+<g transform="translate(390,650)">
+<rect class="card" width="320" height="90" rx="12"/>
+<circle class="badge" cx="30" cy="25" r="15"/>
+<text class="num" x="30" y="30" text-anchor="middle">13</text>
+<text class="head" x="55" y="30">Masonry Cement</text>
+<text class="txt" x="20" y="60">
+Brick masonry, plastering, pointing and non-structural works.
+</text>
+</g>
+
+</svg>
+
 ## Manufacturing of Cement
 
 ### Dry Process
