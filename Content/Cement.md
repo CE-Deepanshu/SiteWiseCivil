@@ -286,7 +286,7 @@ flowchart TD
   mermaid.initialize({ startOnLoad: true });
 </script>
 
-## IS 10262 – Water Cement Ratio vs Strength
+## Water Cement Ratio vs Strength (Conforming to IS 10262)
 
 <svg width="900" height="620" viewBox="0 0 900 620" xmlns="http://www.w3.org/2000/svg">
   <style>
