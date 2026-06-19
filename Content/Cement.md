@@ -106,3 +106,33 @@ flowchart TD
   import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
   mermaid.initialize({ startOnLoad: true });
 </script>
+
+## IS 10262 – Water Cement Ratio vs Strength
+
+<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="white"/>
+  <text x="400" y="35" text-anchor="middle" font-size="22" font-family="Arial">
+    Figure 1: IS 10262 - w/c Ratio vs Strength
+  </text>
+
+  <line x1="90" y1="420" x2="730" y2="420" stroke="black"/>
+  <line x1="90" y1="60" x2="90" y2="420" stroke="black"/>
+
+  <text x="410" y="470" text-anchor="middle" font-size="16" font-family="Arial">
+    Free Water-Cement Ratio
+  </text>
+  <text x="25" y="250" text-anchor="middle" font-size="16" font-family="Arial" transform="rotate(-90 25 250)">
+    28-Day Compressive Strength (MPa)
+  </text>
+
+  <polyline points="110,100 190,170 270,230 350,280 430,320 510,350 590,380 690,410"
+            fill="none" stroke="#1f77b4" stroke-width="3"/>
+  <polyline points="110,75 190,145 270,205 350,255 430,295 510,330 590,360 690,390"
+            fill="none" stroke="#ff7f0e" stroke-width="3"/>
+  <polyline points="110,50 190,120 270,180 350,230 430,270 510,305 590,335 690,365"
+            fill="none" stroke="#2ca02c" stroke-width="3"/>
+
+  <text x="565" y="90" font-size="15" font-family="Arial" fill="#1f77b4">Curve 1 (OPC 33)</text>
+  <text x="565" y="115" font-size="15" font-family="Arial" fill="#ff7f0e">Curve 2 (OPC 43 / PPC / PSC)</text>
+  <text x="565" y="140" font-size="15" font-family="Arial" fill="#2ca02c">Curve 3 (OPC 53)</text>
+</svg>
