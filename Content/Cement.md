@@ -1,6 +1,41 @@
 # CEMENT
 A cement is a binder used for construction that sets, hardens, and adheres to other materials to bind them together. Cement is seldom used on its own, but rather to bind sand and gravel (aggregate) together. Cement mixed with fine aggregate produces mortar for masonry, or with sand and gravel, produces concrete.
 
+## History of Cement
+
+<div class="mermaid">
+timeline
+    title History of Cement
+
+    Ancient Period : Early civilizations used lime and gypsum as binding materials
+                   : Egyptians used gypsum mortar in pyramids
+                   : Greeks improved lime mortar with volcanic ash
+
+    Roman Era : Romans mixed lime with pozzolana
+              : Hydraulic cement developed
+              : Used in structures like Pantheon and Colosseum
+
+    Middle Ages : Knowledge of hydraulic cement declined
+                : Lime mortar remained common in construction
+
+    1756 : John Smeaton developed hydraulic lime
+         : Used for rebuilding Eddystone Lighthouse
+
+    1824 : Joseph Aspdin patented Portland Cement
+         : Named Portland due to similarity with Portland stone
+
+    Late 19th Century : Rotary kilns and better grinding equipment introduced
+                      : Large-scale cement production started
+
+    Modern Era : OPC, PPC, PSC and special cements developed
+               : Cement became one of the most used construction materials
+</div>
+
+<script type="module">
+  import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+  mermaid.initialize({ startOnLoad: true });
+</script>
+
 ## Types of Cement
 
 <svg width="1100" height="780" viewBox="0 0 1100 780" xmlns="http://www.w3.org/2000/svg">
