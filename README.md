@@ -1,5 +1,6 @@
 
-<img width="1536" height="1024" alt="ChatGPT Image Jun 19, 2026, 10_53_58 PM" src="https://github.com/user-attachments/assets/a0e88a75-e855-466d-a601-e1980274f4bd" />
+<img width="408" height="397" alt="image" src="https://github.com/user-attachments/assets/26d7736e-dc9c-4949-9781-575890a43f7d" />
+
 
 Practical civil engineering knowledge, site execution insights, and construction practices.
 
